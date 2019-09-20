@@ -1,0 +1,152 @@
+.wrapper {
+    width: 994px;
+    height: 1205px;
+    background-color: #1A1A1A;
+    margin: 0 auto;
+    padding: 10px 5px;
+
+}
+.header {
+    height: 100px;
+}
+.header img {
+    width: 230px;
+    padding-left: 20px;
+}
+.header h3 {
+    width: 200px;
+    color: #F2F2F2;
+    display: inline-block;
+    font-size: 12pt;
+    position: relative;
+    left: 539px;
+    bottom: 45px;
+}
+.maincontent {
+    position: relative;
+    bottom: 30px;
+}
+.maincontent ul {
+    background: linear-gradient(#515151, #262626);
+    padding: 15px 0 15px 30px;
+    margin-bottom: 3px;
+}
+.maincontent ul li {
+    display: inline-block;
+    padding-right: 16px;
+    border-right: 1px solid #4D4D4D;
+    margin-right: 16px;
+}
+.maincontent ul li a {
+    text-decoration: none;
+    color: #A3A3A3;
+}
+#home {
+    color: #F2F2F2;
+}
+#mainpic {
+    width: 100%;
+}
+.sourcebar {
+    display: inline-block;
+    height: 122px;
+    position: relative;
+    top: 10px;
+}
+.paragraph {
+    width: 170px;
+    background-color: #1A1A1A;
+    display: inline-block;
+    vertical-align: top;
+    color: #F2F2F2;
+}
+.paragraph h3 {
+    color: #E37D2B;
+    font-size: 15pt;
+    margin-bottom: 0px;
+}
+.paragraph p {
+    margin-top: 2px;
+    font-size: 10pt;
+
+}
+.sourcebar img {
+    display: inline-block;
+    padding-left: 15px;
+    padding-top: 19px;
+    padding-right: 8px;
+}
+.buybar {
+    margin: 0 auto;
+    height: 138px;
+    background-color: #090909;
+}
+.buybar h1, .buybar p {
+    display: inline-block;
+    color: #F2F2F2;
+    padding-left: 30px;
+}
+.buybar h1 {
+    margin-bottom: 0px;
+    font-size: 21pt;
+    position: relative;
+    top: 10px;
+}
+.buybar p {
+    width: 725px;
+}
+.buybar button {
+    height: 45px;
+    width: 150px;
+    background: linear-gradient(#F6B789, #EF7F2C);
+    border-radius: 5px;
+    border: solid black;
+    font-size: 16pt;
+    color: white;
+    position: relative;
+    left: 32px;
+    bottom: 20px;
+}
+.portfolio {
+    background-color: #1A1A1A;
+    color: #F2F2F2;
+    display: inline-block;
+}
+.top h3 {
+    font-size: 16pt;
+    display: inline-block;
+    padding: 5px 0 0px 12px;
+}
+.top a {
+    color: #EF7F2C;
+    font-style: italic;
+    position: relative;
+    left: 767px;
+    font-size: 10pt;
+}
+#examples {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin-left: 20px;
+}
+.examples {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin-left: 42px;
+}
+.examples h3, #examples h3 {
+    color: #E37D2B
+}
+.portfolio img {
+    border: 2px solid gray;
+}
+.examples a {
+    text-decoration: none;
+    color: gray;
+    font-size: 9pt;
+    position: relative;
+    left: 150px;
+    top: 39px;
+}
